@@ -182,7 +182,7 @@ p {
   }
   h1 {
     font-size: 1.99rem;
-    font-weight: var(--fw-regular);
+    font-weight: var(--fw-bold);
   }
 
   .product__img {
@@ -199,5 +199,12 @@ p {
   }
   .product__content {
     flex: 1;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    display: block;
+    padding: 1.5rem 1rem; /* ✅ top-bottom 1.5rem, left-right 1rem */
   }
 }
