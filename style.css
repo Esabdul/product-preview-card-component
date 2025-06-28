@@ -89,7 +89,7 @@ body {
   flex-direction: column;
   border-radius: 0.5rem;
   overflow: hidden;
-  width: auto;
+  width: 100%;
   background-color: var(--clr-white-100);
   max-width: 23.438rem;
   margin-block: 1.6rem;
@@ -201,10 +201,10 @@ p {
     flex: 1;
   }
 }
-
+/* 
 @media (max-width: 600px) {
   body {
     display: block;
     padding: 1.5rem 1rem; /* ✅ top-bottom 1.5rem, left-right 1rem */
   }
-}
+} 
