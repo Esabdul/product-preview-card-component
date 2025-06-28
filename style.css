@@ -201,10 +201,3 @@ p {
     flex: 1;
   }
 }
-/* 
-@media (max-width: 600px) {
-  body {
-    display: block;
-    padding: 1.5rem 1rem; /* ✅ top-bottom 1.5rem, left-right 1rem */
-  }
-} 
