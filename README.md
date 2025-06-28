@@ -84,8 +84,8 @@ In the future, I’d like to:
 ## Author
 
 - Name – **Abdul Subhan**
-- Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub – [@yourusername](https://github.com/yourusername)
+- Frontend Mentor – [@Esabdul](https://www.frontendmentor.io/profile/Esabdul)
+- GitHub – [@Esabdul](https://github.com/Esabdul)
 
 ## Acknowledgments
 
