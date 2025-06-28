@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- Screenshot will be added soon -->
+<-- Screenshot will be added soon -->
 
 ### Links
 
-- **Solution URL:** [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/your-solution-link)
-- **Live Site URL:** [Live Preview](https://your-live-site-url.netlify.app)
+- **Solution URL:** [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/responsive-product-card-using-flexbox-and-custom-properties-HOtaTuS9T_)
+- **Live Site URL:** [Live Preview](https://esabdul.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -54,6 +54,7 @@ This project helped reinforce:
 - Centering with `min-height: 100vh` and `display: flex`
 
 Here’s a snippet I’m proud of:
+
 ```css
 @media (min-width: 37.5rem) {
   .product {
@@ -66,6 +67,7 @@ Here’s a snippet I’m proud of:
   }
 }
 ```
+
 ### Continued development
 
 In the future, I’d like to:
