@@ -89,7 +89,7 @@ body {
   flex-direction: column;
   border-radius: 0.5rem;
   overflow: hidden;
-  width: 100%;
+  width: auto;
   background-color: var(--clr-white-100);
   max-width: 23.438rem;
   margin-block: 1.6rem;
